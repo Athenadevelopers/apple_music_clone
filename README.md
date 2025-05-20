@@ -36,7 +36,7 @@ This is a demonstration application that simulates the Apple Music interface. Fo
 
 ## License
 
-© 2025 Sahan Werrasinghe. All rights reserved.
+© 2025 Sahan Weerasinghe. All rights reserved.
 
 © 2025 Acme Apps Inc. All rights reserved.
 This application and its content are protected by copyright and intellectual property laws.
